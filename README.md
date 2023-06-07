@@ -1,10 +1,9 @@
 # object-detection-classification-yolo-opencv
 
-### <b>Commands to execute the code:</b>
-
+ # Run the  Commands
 If you want to perform object detection in a static image file,
 ```
-python yolo.py --image=True --image_path='images/bicycle.jpg'
+python3 yolo.py --image=True --image_path='images/bicycle.jpg'
 ```
 
 If you want to perform object detection in a video,
